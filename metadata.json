@@ -1,0 +1,6 @@
+{
+  "name": "BrainOS — Personal Mental Health Operating System",
+  "description": "The World's First Personal Mental Health Operating System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
